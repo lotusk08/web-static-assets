@@ -58,6 +58,7 @@ Static assets (libraries/plugins/web-fonts) required by the [_Chirpy_][chirpy] b
 | [Mermaid][mermaid]                                       |  `10.9.0` |
 | [Simple-Jekyll-Search][simple-jekyll-search]             |  `1.10.0` |
 | [Tocbot][tocbot]                                         | `4.27.20` |
+| [Waline][waline]                                         |   `3.2.0` |
 
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy
 
@@ -71,3 +72,4 @@ Static assets (libraries/plugins/web-fonts) required by the [_Chirpy_][chirpy] b
 [mermaid]: https://www.jsdelivr.com/package/npm/mermaid
 [simple-jekyll-search]: https://www.jsdelivr.com/package/npm/simple-jekyll-search
 [tocbot]: https://www.jsdelivr.com/package/npm/tocbot
+[waline]: https://www.jsdelivr.com/package/npm/@waline/client
